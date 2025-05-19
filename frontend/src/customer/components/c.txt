@@ -1,0 +1,1 @@
+Put your individual components like header, footers, charts etc.. (not whole pages) in here

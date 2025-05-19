@@ -1,0 +1,98 @@
+export const Crops = [
+  {
+    name: "Carrot",
+    amount: 110,
+  },
+  {
+    name: "Tomato",
+    amount: 550,
+  },
+  {
+    name: "Cabbage",
+    amount: 90,
+  },
+  {
+    name: "Potato",
+    amount: 400,
+  },
+];
+
+export const expenses = [
+  {
+    name: "January",
+    income: 5000,
+    expense: 110,
+  },
+  {
+    name: "February",
+    income: 6500,
+    expense: 1030,
+  },
+  {
+    name: "March",
+    income: 3000,
+    expense: 1900,
+  },
+  {
+    name: "April",
+    income: 10000,
+    expense: 3120,
+  },
+];
+
+export const tempUID = "67d61777badc1ba1639ca218";
+
+export const people = [
+  {
+    name: "Leslie Alexander",
+    email: "leslie.alexander@example.com",
+    role: "Co-Founder / CEO",
+    imageUrl:
+      "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    lastSeen: "3h ago",
+    lastSeenDateTime: "2023-01-23T13:23Z",
+  },
+  {
+    name: "Michael Foster",
+    email: "michael.foster@example.com",
+    role: "Co-Founder / CTO",
+    imageUrl:
+      "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    lastSeen: "3h ago",
+    lastSeenDateTime: "2023-01-23T13:23Z",
+  },
+  {
+    name: "Dries Vincent",
+    email: "dries.vincent@example.com",
+    role: "Business Relations",
+    imageUrl:
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    lastSeen: null,
+  },
+  {
+    name: "Lindsay Walton",
+    email: "lindsay.walton@example.com",
+    role: "Front-end Developer",
+    imageUrl:
+      "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    lastSeen: "3h ago",
+    lastSeenDateTime: "2023-01-23T13:23Z",
+  },
+  {
+    name: "Courtney Henry",
+    email: "courtney.henry@example.com",
+    role: "Designer",
+    imageUrl:
+      "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    lastSeen: "3h ago",
+    lastSeenDateTime: "2023-01-23T13:23Z",
+  },
+  {
+    name: "Tom Cook",
+    email: "tom.cook@example.com",
+    role: "Director of Product",
+    imageUrl:
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
+    lastSeen: null,
+  },
+];

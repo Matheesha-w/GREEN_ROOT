@@ -1,0 +1,12 @@
+.frame {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+
+/* height of the container */
+.leaflet-container {
+  height: 30vh;
+  width: 90vh;
+}
