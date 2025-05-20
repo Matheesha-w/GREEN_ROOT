@@ -7,7 +7,8 @@
 
 
 Matheesha Weerasinghe - handled customer role of this project
-backend > customer
-frontend >src>customer
+
+//backend > customer
+//frontend >src>customer
  
  Designed and managed core e-commerce functionalities including order processing, customer feedback, promotional offers and comprehensive cart management.
