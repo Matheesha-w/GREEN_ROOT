@@ -2,7 +2,7 @@
  researchers, and customers.
  Implemented responsive and modern UI components using Tailwind CSS. Integrated third-party APIs and the Stripe payment gateway to ensure secure transactions and enhance user interaction.
 
-
+ Team - Matheesha,Prasad,Himasha,Linal,Shashan
 
 
 
