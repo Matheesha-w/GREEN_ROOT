@@ -6,7 +6,7 @@
 
 
 
-Matheesha Weerasinghe - handled customer sub system of this project
+Matheesha Weerasinghe - handled customer and orders sub system of this project
 
 //backend > customer
 //frontend >src>customer
